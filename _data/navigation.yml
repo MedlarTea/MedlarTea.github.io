@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: "/#-cv"
 
-  - title: "Example"
-    url: "/example/"
+  # - title: "Example"
+  #   url: "/example/"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
