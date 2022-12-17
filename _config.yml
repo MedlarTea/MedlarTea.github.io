@@ -126,6 +126,17 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # example
+  - scope:
+      path: ""
+      type: example
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  
+
 
 
 # Sass/SCSS
