@@ -172,3 +172,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# for sitemap
+url: "https://medlartea.github.io/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
