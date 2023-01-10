@@ -7,4 +7,4 @@ $\dagger$ indicates equal contribution, and $*$ indicates corresponding authorsh
 3. **Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker.** <br /><u>Hanjing Ye</u>, Guangcheng Chen, Weinan Chen, Li He, Yisheng Guan, Hong Zhang$^*$. <br />**ROBIO 2021**.
 
 ## Journals
-1. **Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder.** <br /><u>Hanjing Ye</u>, Weinan Chen, Jingwen Yu, Li He, Yisheng Guan, Hong Zhang$^*$. <br />**Under review**.
+1. **Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder.** <br /><u>Hanjing Ye</u>, Weinan Chen, Jingwen Yu, Li He, Yisheng Guan, Hong Zhang$^*$. <br />**Robotica**.
