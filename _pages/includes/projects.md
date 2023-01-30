@@ -15,10 +15,10 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><a href="http://MedlarTea.github.io/files/info_keyframe.pdf"><img src='images/keyframe.png' alt="sym" width="100%"></a></div>
+<div class='paper-box'><div class='paper-box-image'><a href="https://ieeexplore.ieee.org/document/9981050"><img src='images/keyframe.png' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
-[Visual Place Recognition and Keyframe Selection](http://MedlarTea.github.io/files/info_keyframe.pdf)
+[Visual Place Recognition and Keyframe Selection](https://ieeexplore.ieee.org/document/9981050)
 ---
 
 <u>Hanjing Ye</u>, Weinan Chen, Li He, Hong Zhang
