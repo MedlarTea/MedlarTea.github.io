@@ -10,7 +10,7 @@
 
 2023 IEEE International Conference on Robotics and Automation (ICRA)
 
-[[pdf](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)]
+[[pdf](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)] [[doi](https://arxiv.org/abs/2302.02121)]
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
