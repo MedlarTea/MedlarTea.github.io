@@ -1,6 +1,6 @@
 # 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/rpfpartial"><img src='images/rpf_partial.png' alt="sym" width="100%"></a></div>
+<div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/rpfpartial"><img src='files/mono_rpf_track.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
 [Robot Person Following Under Partial Occlusion](https://sites.google.com/view/rpfpartial)
