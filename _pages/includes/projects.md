@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/oclrpf"><img src='files/ocl_rpf.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
-[Person Re-Identification for Robot Person Following with Online Continual Learning](https://sites.google.com/view/oclrpf)
+[Person Re-Identification for Robot Person Following](https://sites.google.com/view/oclrpf)
 ---
 
 <u>Hanjing Ye</u>, Jieting Zhao, Yu Zhan, Weinan Chen, Li He, Hong Zhang
