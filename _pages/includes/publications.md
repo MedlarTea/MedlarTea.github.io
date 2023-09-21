@@ -3,8 +3,9 @@ $\dagger$ indicates equal contribution, and $*$ indicates corresponding authorsh
 
 
 ## Robot Person Following
-1. **Robot Person Following Under Partial Occlusion.** <br /><u>Hanjing Ye</u>, Jieting Zhao, Yaling Pan, Weinan Chen, Li He, Hong Zhang$^*$. <br />**ICRA 2023**. [[pdf](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)] [[doi](https://doi.org/10.1109/ICRA48891.2023.10160738)]
-2. **Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker.** <br /><u>Hanjing Ye</u>, Guangcheng Chen, Weinan Chen, Li He, Yisheng Guan, Hong Zhang$^*$. <br />**ROBIO 2021**. [[pdf](http://MedlarTea.github.io/files/mwf.pdf)] [[doi](https://doi.org/10.1109/ROBIO54168.2021.9739394)]
+1. **Person Re-Identification for Robot Person Following with Online Continual Learning.** <br /><u>Hanjing Ye</u>, Jieting Zhao, Yu Zhan, Weinan Chen, Li He, Hong Zhang$^*$. <br />**Under review**. [[pdf](http://MedlarTea.github.io/files/ocl_rpf.pdf)] [[github](https://github.com/MedlarTea/OCL-RPF)] [[site](https://sites.google.com/view/oclrpf)]
+2. **Robot Person Following Under Partial Occlusion.** <br /><u>Hanjing Ye</u>, Jieting Zhao, Yaling Pan, Weinan Chen, Li He, Hong Zhang$^*$. <br />**ICRA 2023**. [[pdf](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)] [[doi](https://doi.org/10.1109/ICRA48891.2023.10160738)]
+3. **Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker.** <br /><u>Hanjing Ye</u>, Guangcheng Chen, Weinan Chen, Li He, Yisheng Guan, Hong Zhang$^*$. <br />**ROBIO 2021**. [[pdf](http://MedlarTea.github.io/files/mwf.pdf)] [[doi](https://doi.org/10.1109/ROBIO54168.2021.9739394)]
 
 ## Place Recognition
 1. **Multi-scale Point Octree Encoding Network for Point Cloud based Place Recognition** <br />Zhilong Tang, <u>Hanjing Ye</u>, Li He, Hong Zhang$^*$. <br />**IROS 2023**. [[pdf]()] [[github]()] [[doi]()]

@@ -1,5 +1,22 @@
 # 📝 Projects
 
+<div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/oclrpf"><img src='files/ocl_rpf.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box-text' markdown="1">
+
+[Person Re-Identification for Robot Person Following with Online Continual Learning](https://sites.google.com/view/oclrpf)
+---
+
+<u>Hanjing Ye</u>, Jieting Zhao, Yu Zhan, Weinan Chen, Li He, Hong Zhang
+
+Under review
+
+[[pdf](http://MedlarTea.github.io/files/ocl_rpf.pdf)] [[github](https://github.com/MedlarTea/OCL-RPF)] [[site](https://sites.google.com/view/oclrpf)]
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/rpfpartial"><img src='files/mono_rpf_track.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
