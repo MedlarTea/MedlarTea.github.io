@@ -3,7 +3,7 @@ $\dagger$ indicates equal contribution, and $*$ indicates corresponding authorsh
 
 
 ## Robot Person Following
-1. **Human Orientation Estimation Under Partial Observation.** <br />Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hong Zhang$^*$. <br />**Submitted to IROS 2024**. [[github](https://github.com/zhaojieting/Part_HOE)]
+1. **Human Orientation Estimation Under Partial Observation.** <br />Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hong Zhang$^*$. <br />**Submitted to IROS 2024**. [[github](https://github.com/zhaojieting/Part_HOE)] [[video](https://www.youtube.com/watch?v=ABYZ28tpPV0&ab_channel=JietingZhao)]
 2. **Person Re-Identification for Robot Person Following with Online Continual Learning.** <br /><u>Hanjing Ye</u>, Jieting Zhao, Yu Zhan, Weinan Chen, Li He, Hong Zhang$^*$. <br />**Under review**. [[pdf](http://MedlarTea.github.io/files/ocl_rpf.pdf)] [[github](https://github.com/MedlarTea/OCL-RPF)] [[site](https://sites.google.com/view/oclrpf)]
 3. **Robot Person Following Under Partial Occlusion.** <br /><u>Hanjing Ye</u>, Jieting Zhao, Yaling Pan, Weinan Chen, Li He, Hong Zhang$^*$. <br />**ICRA 2023**. [[pdf](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)] [[doi](https://doi.org/10.1109/ICRA48891.2023.10160738)]
 4. **Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker.** <br /><u>Hanjing Ye</u>, Guangcheng Chen, Weinan Chen, Li He, Yisheng Guan, Hong Zhang$^*$. <br />**ROBIO 2021**. [[pdf](http://MedlarTea.github.io/files/mwf.pdf)] [[doi](https://doi.org/10.1109/ROBIO54168.2021.9739394)]
