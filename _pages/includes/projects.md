@@ -20,7 +20,7 @@ Under review
 <div class='paper-box'><div class='paper-box-image'><a href="https://github.com/zhaojieting/Part_HOE"><img src='files/ori_rpf.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
-[Orientation Estimation Under Partial Occlusion](https://github.com/zhaojieting/Part_HOE)
+[Human Orientation Estimation Under Partial Occlusion](https://github.com/zhaojieting/Part_HOE)
 ---
 
 Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hong Zhang
