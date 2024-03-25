@@ -17,6 +17,21 @@ Under review
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><a href="https://github.com/zhaojieting/Part_HOE"><img src='files/ori_rpf.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box-text' markdown="1">
+
+[Orientation Estimation Under Partial Occlusion](https://github.com/zhaojieting/Part_HOE)
+---
+
+Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hong Zhang
+
+Submitted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+
+[[pdf](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/zhaojieting/Part_HOE)] [[video](https://www.youtube.com/watch?v=ABYZ28tpPV0&ab_channel=JietingZhao)]
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/rpfpartial"><img src='files/mono_rpf_track.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
