@@ -27,7 +27,7 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hong Zhang
 
 Submitted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
-[[pdf](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/zhaojieting/Part_HOE)] [[video](https://www.youtube.com/watch?v=ABYZ28tpPV0&ab_channel=JietingZhao)]
+[[github](https://github.com/zhaojieting/Part_HOE)] [[video](https://www.youtube.com/watch?v=ABYZ28tpPV0&ab_channel=JietingZhao)]
 
 </div>
 </div>
