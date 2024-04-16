@@ -25,4 +25,6 @@ redirect_from:
 
 {% include_relative includes/publications.md %}
 
+{% include_relative includes/services.md %}
+
 {% include_relative includes/cv.md %}
