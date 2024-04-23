@@ -27,7 +27,7 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hong Zhang
 
 Submitted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
-[[github](https://github.com/zhaojieting/Part_HOE)] [[video](https://www.youtube.com/watch?v=4qiJiKuF22E&ab_channel=JietingZhao)]
+[[arxiv](https://arxiv.org/abs/2404.14139)] [[github](https://github.com/zhaojieting/Part_HOE)] [[video](https://www.youtube.com/watch?v=4qiJiKuF22E&ab_channel=JietingZhao)]
 
 </div>
 </div>
