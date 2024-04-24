@@ -15,8 +15,8 @@ main:
   - title: "Services"
     url: "/#-services-and-activities"
 
-  - title: "CV"
-    url: "/#-cv"
+  # - title: "CV"
+  #   url: "/#-cv"
 
   # - title: "Example"
   #   url: "/example/"
