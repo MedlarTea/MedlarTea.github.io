@@ -27,4 +27,4 @@ redirect_from:
 
 {% include_relative includes/services.md %}
 
-<!-- {% include_relative includes/cv.md %} -->
+{% include_relative includes/statistics.md %}
