@@ -1,5 +1,4 @@
 # 📚 Publications
-$\dagger$ indicates equal contribution.
 
 
 ## Robot Person Following
