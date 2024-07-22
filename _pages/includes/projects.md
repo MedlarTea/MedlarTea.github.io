@@ -8,7 +8,7 @@
 
 <u>Hanjing Ye</u>, Jieting Zhao, Yu Zhan, Weinan Chen, Li He, Hong Zhang
 
-Under review
+2024 IEEE Robotics and Automation Letters
 
 [[pdf](http://MedlarTea.github.io/files/ocl_rpf.pdf)] [[github](https://github.com/MedlarTea/OCL-RPF)] [[site](https://sites.google.com/view/oclrpf)]
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
