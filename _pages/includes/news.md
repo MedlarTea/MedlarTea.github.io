@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.07*: 🎉🎉 one paper accepted by RAL2024, the final version and the source code would be released soon
+- *2024.07*: 🎉🎉 One paper accepted by RAL2024. Final version and source code coming soon.
 - *2024.06*: 🎉🎉 Two papers accepted by IROS2024
 - *2023.12*: 🥳🥳 Ohhhhhh, passed PhD dissertation proposal defense!!!
 - *2023.06*: 🎉🎉 One paper accepted by IROS2023
