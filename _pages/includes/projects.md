@@ -10,7 +10,7 @@
 
 2024 IEEE Robotics and Automation Letters (RAL)
 
-[[pdf](http://MedlarTea.github.io/files/ocl_rpf.pdf)] [[github](https://github.com/MedlarTea/OCL-RPF)] [[site](https://sites.google.com/view/oclrpf)]
+[[paper](http://MedlarTea.github.io/files/ocl_rpf.pdf)] [[github](https://github.com/MedlarTea/OCL-RPF)] [[site](https://sites.google.com/view/oclrpf)]
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -42,7 +42,7 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hong Zhang
 
 2023 IEEE International Conference on Robotics and Automation (ICRA)
 
-[[pdf](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)] [[doi](https://arxiv.org/abs/2302.02121)]
+[[paper](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)] [[doi](https://arxiv.org/abs/2302.02121)]
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -59,7 +59,7 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hong Zhang
 
 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
-[[pdf](http://MedlarTea.github.io/files/info_keyframe.pdf)]  [[doi](https://ieeexplore.ieee.org/document/9981050)]
+[[paper](http://MedlarTea.github.io/files/info_keyframe.pdf)]  [[doi](https://ieeexplore.ieee.org/document/9981050)]
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
