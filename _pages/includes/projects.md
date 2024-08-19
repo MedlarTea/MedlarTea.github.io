@@ -10,7 +10,7 @@
 
 2024 IEEE Robotics and Automation Letters (RAL)
 
-[[paper](http://MedlarTea.github.io/files/ocl_rpf.pdf)] [[github](https://github.com/MedlarTea/OCL-RPF)] [[site](https://sites.google.com/view/oclrpf)]
+[[site](https://sites.google.com/view/oclrpf)] [[paper](http://MedlarTea.github.io/files/ocl_rpf.pdf)] [[github](https://github.com/MedlarTea/OCL-RPF)] [[doi](https://doi.org/10.1109/LRA.2024.3438042)]
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -27,7 +27,7 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hong Zhang
 
 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
-[[arxiv](https://arxiv.org/abs/2404.14139)] [[github](https://github.com/zhaojieting/Part_HOE)] [[video](https://www.youtube.com/watch?v=4qiJiKuF22E&ab_channel=JietingZhao)]
+[[paper](http://MedlarTea.github.io/files/ori_rpf.pdf)] [[github](https://github.com/zhaojieting/Part_HOE)] [[video](https://www.youtube.com/watch?v=4qiJiKuF22E&ab_channel=JietingZhao)]
 
 </div>
 </div>
@@ -42,24 +42,24 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hong Zhang
 
 2023 IEEE International Conference on Robotics and Automation (ICRA)
 
-[[paper](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)] [[doi](https://arxiv.org/abs/2302.02121)]
+[[site](https://sites.google.com/view/rpfpartial)] [[paper](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)] [[doi](https://doi.org/10.1109/ICRA48891.2023.10160738)]
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><a href="https://ieeexplore.ieee.org/document/9981050"><img src='images/keyframe.png' alt="sym" width="100%"></a></div>
+<div class='paper-box'><div class='paper-box-image'><a href="https://doi.org/10.1109/IROS47612.2022.9981050"><img src='images/keyframe.png' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
-[Visual Place Recognition and Keyframe Selection](https://ieeexplore.ieee.org/document/9981050)
+[Visual Place Recognition and Keyframe Selection](https://doi.org/10.1109/IROS47612.2022.9981050)
 ---
 
 <u>Hanjing Ye</u>, Weinan Chen, Li He, Hong Zhang
 
 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
-[[paper](http://MedlarTea.github.io/files/info_keyframe.pdf)]  [[doi](https://ieeexplore.ieee.org/document/9981050)]
+[[paper](http://MedlarTea.github.io/files/info_keyframe.pdf)]  [[doi](https://doi.org/10.1109/IROS47612.2022.9981050)]
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
