@@ -23,7 +23,7 @@
 [Human Orientation Estimation Under Partial Occlusion](https://github.com/zhaojieting/Part_HOE)
 ---
 
-Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hong Zhang
+Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hao Luan, Hong Zhang
 
 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
