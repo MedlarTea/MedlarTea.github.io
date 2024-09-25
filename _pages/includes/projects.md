@@ -27,7 +27,7 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hao Luan, Hong Zhang
 
 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
-[[paper](http://MedlarTea.github.io/files/ori_rpf.pdf)] [[github](https://github.com/zhaojieting/Part_HOE)] [[doi](https://doi.org/10.48550/arXiv.2404.14139)] [[video](https://www.youtube.com/watch?v=4qiJiKuF22E&ab_channel=JietingZhao)]
+[[paper](http://MedlarTea.github.io/files/ori_rpf.pdf)] [[github](https://github.com/zhaojieting/Part_HOE)] [[doi](https://doi.org/10.48550/arXiv.2404.14139)] [[video](https://www.youtube.com/watch?v=4qiJiKuF22E&ab_channel=JietingZhao)] [[Chinese report (by ShenLan AI)](https://mp.weixin.qq.com/s/Hb58vNGIvINoWJR4Y7qYOg)]
 
 </div>
 </div>
