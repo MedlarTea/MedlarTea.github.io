@@ -76,7 +76,7 @@
                   <div class="column has-text-centered">
                     <div class="publication-links">
                          <!-- Arxiv PDF link -->
-                      <span class="link-block">
+                      <!-- <span class="link-block">
                         <a href="https://arxiv.org/pdf/<ARXIV PAPER ID>.pdf" target="_blank"
                         class="external-link button is-normal is-rounded is-dark">
                         <span class="icon">
@@ -84,10 +84,10 @@
                         </span>
                         <span>Paper</span>
                       </a>
-                    </span>
+                    </span> -->
 
                     <!-- Supplementary PDF link -->
-                    <span class="link-block">
+                    <!-- <span class="link-block">
                       <a href="static/pdfs/supplementary_material.pdf" target="_blank"
                       class="external-link button is-normal is-rounded is-dark">
                       <span class="icon">
@@ -95,21 +95,21 @@
                       </span>
                       <span>Supplementary</span>
                     </a>
-                  </span>
+                  </span> -->
 
                   <!-- Github link -->
-                  <span class="link-block">
-                    <a href="https://github.com/YOUR REPO HERE" target="_blank"
+                  <!-- <span class="link-block">
+                    <a href="https://github.com/MedlarTea/rpf-search" target="_blank"
                     class="external-link button is-normal is-rounded is-dark">
                     <span class="icon">
                       <i class="fab fa-github"></i>
                     </span>
                     <span>Code</span>
                   </a>
-                </span>
+                </span> -->
 
                 <!-- ArXiv abstract Link -->
-                <span class="link-block">
+                <!-- <span class="link-block">
                   <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
                   class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
@@ -117,7 +117,7 @@
                   </span>
                   <span>arXiv</span>
                 </a>
-              </span>
+              </span> -->
             </div>
           </div>
         </div>
@@ -164,7 +164,7 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            Autonomous robot person-following (RPF) systems are crucial for personal assistance and security but suffer from target loss due to occlusions in dynamic, unknown environments. Current methods rely on pre-built maps and assume static environments, limiting their effectiveness in real-world settings. There is a critical gap in re-finding targets under topographic (e.g., walls, corners) and dynamic (e.g., moving pedestrians) occlusions. In this paper, we propose a novel heuristic-guided search framework that dynamically builds environmental maps while following the target and resolves various occlusions by prioritizing high-probability areas for locating the target. For topographic occlusions, a belief-guided search field is constructed and used to evaluate the likelihood of the target's presence, while for dynamic occlusions, a fluid-field approach allows the robot to adaptively follow or overtake moving occluders. Past motion cues and environmental observations refine the search decision over time. Our results demonstrate that the proposed method outperforms existing approaches in terms of search efficiency and success rates, both in simulations and real-world tests. Our target search method enhances the adaptability and reliability of RPF systems in unknown and dynamic environments to support their use in real-world applications.
+            Autonomous robot person-following (RPF) systems are crucial for personal assistance and security but suffer from target loss due to occlusions in dynamic, unknown environments. Current methods rely on pre-built maps and assume static environments, limiting their effectiveness in real-world settings. There is a critical gap in re-finding targets under topographic (e.g., walls, corners) and dynamic (e.g., moving pedestrians) occlusions. In this paper, we propose a novel heuristic-guided search framework that dynamically builds environmental maps while following the target and resolves various occlusions by prioritizing high-probability areas for locating the target. For topographic occlusions, a belief-guided search field is constructed and used to evaluate the likelihood of the target’s presence, while for dynamic occlusions, a fluid-field approach allows the robot to adaptively follow or overtake moving occluders. Past motion cues and environmental observations refine the search decision over time. Our results demonstrate that the proposed method outperforms existing approaches in terms of search efficiency and success rates, both in simulations and real-world tests. Our target search method enhances the adaptability and reliability of RPF systems in unknown and dynamic environments to support their use in real-world applications.
           </p>
         </div>
       </div>
@@ -181,7 +181,7 @@
         <img src="static/images/framework.png" alt="MY ALT TEXT" style="width: 100%; max-width: 1120px; height: auto;"/>
       </div>
       <h2 class="subtitle has-text-centered">
-        The framework of our field-based heuristic-guided RPF-search. The search process is divided into two categories: topographic occlusion from environmental corners and dynamic occlusion caused by moving pedestrians. For topographic occlusion, we use a belief-guided search field to optimize target search by selecting promising searching points based on information gain, target probability, motion efficiency, and collision risk. For dynamic occlusion, motion cues from pedestrians guide whether to follow via a fluid-field approach or overtake using an observation-based potential field.
+        The framework of our RPF-search consists of three conditions: **Occ**, **DO**, and **TO**, representing ''is occlusion'', ``is dynamic occlusion'' and ``topographic occlusion'', respectively. The search process is divided into two categories: topographic occlusion from environmental corners and dynamic occlusion caused by moving pedestrians. For topographic occlusion, we use a belief-guided search field to optimize target search by selecting promising searching points based on information gain, target probability, motion efficiency, and collision risk. For dynamic occlusion, motion cues from pedestrians guide whether to follow via a fluid-field approach or overtake using an observation-based potential field.
       </h2>
     </div>
   </div>
