@@ -1,5 +1,6 @@
 # 📝 Projects
 
+<!-- person search-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://medlartea.github.io/rpf-search/"><img src='files/rpf_search.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
@@ -14,6 +15,7 @@ Under Review
 </div>
 </div>
 
+<!-- person ReID-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/oclrpf"><img src='files/ocl_rpf.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
@@ -28,6 +30,7 @@ Under Review
 </div>
 </div>
 
+<!-- person orientation estimation-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://github.com/zhaojieting/Part_HOE"><img src='files/ori_rpf.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,6 +46,7 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hao Luan, Hong Zhang
 </div>
 </div>
 
+<!-- person tracking-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/rpfpartial"><img src='files/mono_rpf_track.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
