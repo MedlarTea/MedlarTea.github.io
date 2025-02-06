@@ -56,17 +56,3 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hao Luan, Hong Zhang
 [[paper](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)] [[doi](https://doi.org/10.1109/ICRA48891.2023.10160738)] [[site](https://sites.google.com/view/rpfpartial)]
 </div>
 </div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><a href="https://doi.org/10.1109/IROS47612.2022.9981050"><img src='images/keyframe.png' alt="sym" width="100%"></a></div>
-<div class='paper-box-text' markdown="1">
-
-[Visual Place Recognition and Keyframe Selection](https://doi.org/10.1109/IROS47612.2022.9981050)
----
-
-<u>Hanjing Ye</u>, Weinan Chen, Li He, Hong Zhang
-
-2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-
-[[paper](http://MedlarTea.github.io/files/info_keyframe.pdf)]  [[doi](https://doi.org/10.1109/IROS47612.2022.9981050)] -->
-</div>
-</div> -->
