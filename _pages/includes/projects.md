@@ -11,7 +11,7 @@
 
 Under Review
 
-[[github](https://github.com/MedlarTea/RPF-Search)] [[video](https://youtu.be/fyoP0cN9jxM?si=aGKmlgWo-2Wc4uV3)] [[site](https://medlartea.github.io/rpf-search/)]
+[[arXiv](https://arxiv.org/pdf/2503.02188)] [[video](https://youtu.be/fyoP0cN9jxM?si=aGKmlgWo-2Wc4uV3)] [[site](https://medlartea.github.io/rpf-search/)]
 </div>
 </div>
 
