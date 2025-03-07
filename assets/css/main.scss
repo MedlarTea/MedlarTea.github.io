@@ -53,7 +53,7 @@
     .paper-box-image{
         justify-content: center;
         display: flex;
-        width: 100%;
+        width: 50%;
         order: 2;
         img {
             max-width: 400px;
@@ -63,6 +63,8 @@
     }
     
     .paper-box-text{
+        font-size: 20px;   /* 增大字体 */
+        line-height: 1.2;  /* 减小行距 */
         max-width: 100%;
         order: 1;
     }

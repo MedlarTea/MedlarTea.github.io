@@ -1,4 +1,4 @@
-# 📝 Projects
+# 📝 Selected Publications
 
 <!-- person search-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://medlartea.github.io/rpf-search/"><img src='files/rpf_search.gif' alt="sym" width="100%"></a></div>
