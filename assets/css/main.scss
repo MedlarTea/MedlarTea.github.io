@@ -46,14 +46,15 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    border-bottom: none;
+    // border-bottom: 1px #efefef solid;
+    padding: 0 0 1em 0;
     
 
     .paper-box-image{
         justify-content: center;
         display: flex;
-        width: 50%;
+        width: 100%;
         order: 2;
         img {
             max-width: 400px;
@@ -70,14 +71,13 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 100px;
-            max-width: 20%;
+            // min-width: 200px;
+            max-width: 30%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
-            line-height: 1.2;  /* 减小行距 */
             padding-left: 2em;
             max-width: 60%;
             order: 2;

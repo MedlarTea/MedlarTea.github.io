@@ -1,12 +1,13 @@
-# 📝 Selected Publications
+# 📝 Selected Projects
 
 <!-- person search-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://medlartea.github.io/rpf-search/"><img src='files/rpf_search.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
-**RPF-Search: Field-based Search for Robot Person Following in Unknown Dynamic Environments**
+<strong style="font-size: 1.1em;">**RPF-Search: Field-based Search for Robot Person Following in Unknown Dynamic Environments**</strong>
 
-<u>**Hanjing Ye**</u>, Kuanqi Cai, Yu Zhan, Bingyi Xia, Arash Ajoudani, Hong Zhang
+
+<u>Hanjing Ye</u>, Kuanqi Cai, Yu Zhan, Bingyi Xia, Arash Ajoudani, Hong Zhang
 
 Under Review
 
@@ -18,8 +19,8 @@ Under Review
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/oclrpf"><img src='files/ocl_rpf.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
-[Person Re-Identification for Robot Person Following](https://sites.google.com/view/oclrpf)
----
+<strong style="font-size: 1.1em;">**Person Re-Identification for Robot Person Following with Online Continual Learning**</strong>
+
 
 <u>Hanjing Ye</u>, Jieting Zhao, Yu Zhan, Weinan Chen, Li He, Hong Zhang
 
@@ -33,8 +34,8 @@ Under Review
 <div class='paper-box'><div class='paper-box-image'><a href="https://github.com/zhaojieting/Part_HOE"><img src='files/ori_rpf.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
-[Human Orientation Estimation Under Partial Occlusion](https://github.com/zhaojieting/Part_HOE)
----
+<strong style="font-size: 1.1em;">**Human Orientation Estimation Under Partial Observation**</strong>
+
 
 Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hao Luan, Hong Zhang
 
@@ -49,8 +50,9 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hao Luan, Hong Zhang
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/rpfpartial"><img src='files/mono_rpf_track.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
-[Robot Person Following Under Partial Occlusion](https://sites.google.com/view/rpfpartial)
----
+<strong style="font-size: 1.1em;">**Robot Person Following Under Partial Occlusion**</strong>
+
+
 
 <u>Hanjing Ye</u>, Jieting Zhao, Yaling Pan, Weinan Chen, Li He, Hong Zhang
 
