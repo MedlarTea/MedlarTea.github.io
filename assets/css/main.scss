@@ -63,8 +63,6 @@
     }
     
     .paper-box-text{
-        font-size: 20px;   /* 增大字体 */
-        line-height: 1.2;  /* 减小行距 */
         max-width: 100%;
         order: 1;
     }
@@ -72,15 +70,16 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 100px;
+            max-width: 20%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
+            line-height: 1.2;  /* 减小行距 */
             padding-left: 2em;
-            max-width: 100%;
+            max-width: 60%;
             order: 2;
         }
 

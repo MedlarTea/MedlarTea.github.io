@@ -4,10 +4,9 @@
 <div class='paper-box'><div class='paper-box-image'><a href="https://medlartea.github.io/rpf-search/"><img src='files/rpf_search.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
-[Person Search for Robot Person Following](https://medlartea.github.io/rpf-search/)
----
+**RPF-Search: Field-based Search for Robot Person Following in Unknown Dynamic Environments**
 
-<u>Hanjing Ye</u>, Kuanqi Cai, Yu Zhan, Bingyi Xia, Arash Ajoudani, Hong Zhang
+<u>**Hanjing Ye**</u>, Kuanqi Cai, Yu Zhan, Bingyi Xia, Arash Ajoudani, Hong Zhang
 
 Under Review
 
