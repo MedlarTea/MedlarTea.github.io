@@ -168,18 +168,31 @@
 <!-- End paper abstract -->
 
 
-<!-- <section class="hero is-small">
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="static/images/observation-long.png" alt="MY ALT TEXT" style="width: 100%; max-width: 1120px; height: auto;"/>
+      </div>
+      <h2 class="subtitle has-text-centered">
+        The observation model of our method. To better illustrate the geometry, in (a), we fix the camera frame so a human appears tilted in the camera frame due to camera ego-motion. Once we assume the human is always upright and fix the human, an RPF scenario can be constructed in (b).
+      </h2>
+    </div>
+  </div>
+</section>
+
+<section class="hero is-light">
   <div class="hero-body">
     <div class="container">
       <div style="display: flex; justify-content: center; align-items: center;">
         <img src="static/images/framework.png" alt="MY ALT TEXT" style="width: 100%; max-width: 1120px; height: auto;"/>
       </div>
       <h2 class="subtitle has-text-centered">
-        The framework of our RPF-search consists of three conditions: <b>Occ</b>, <b>DO</b>, and <b>TO</b>, representing "is occlusion", "is dynamic occlusion" and "topographic occlusion", respectively. The search process is divided into two categories: topographic occlusion from environmental corners and dynamic occlusion caused by moving pedestrians. For topographic occlusion, we use a belief-guided search field to optimize target search by selecting promising searching points based on information gain, target probability, motion efficiency, and collision risk. For dynamic occlusion, motion cues from pedestrians guide whether to follow via a fluid-field approach or overtake using an observation-based potential field.
+        The proposed person localization method achieves stable results under camera ego-motion due to large rotation. Additionally, the Normalization module enables our framework to be compatible with different cameras such as pin-hole, fisheye and equirectangular images. By performing data association and trajectory smoothing in 3D space, we achieve robust person tracking and following in rough terrains.
       </h2>
     </div>
   </div>
-</section> -->
+</section>
 
 <!-- Image carousel -->
 <!-- <section class="hero is-small">
@@ -188,13 +201,13 @@
       <h2 class="title is-3">Simulated Environmental Settings</h2>
       <div id="results-carousel" class="carousel results-carousel">
        <div class="item">
-        <img src="static/images/sim01.png" alt="MY ALT TEXT"/>
+        <img src="static/images/platform.png" alt="MY ALT TEXT"/>
       </div>
       <div class="item">
-        <img src="static/images/sim02.png" alt="MY ALT TEXT"/>
+        <img src="static/images/platform.png" alt="MY ALT TEXT"/>
       </div>
       <div class="item">
-        <img src="static/images/sim03.png" alt="MY ALT TEXT"/>
+        <img src="static/images/platform.png" alt="MY ALT TEXT"/>
      </div>
   </div>
 </div>

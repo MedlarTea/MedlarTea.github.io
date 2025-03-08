@@ -15,6 +15,21 @@ Under Review
 </div>
 </div>
 
+<!-- rpf quadruped -->
+<div class='paper-box'><div class='paper-box-image'><a href="https://medlartea.github.io/rpf-quadruped/"><img src='files/rpf_quadruped.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box-text' markdown="1">
+
+<strong style="font-size: 1.1em;">**Monocular Person Localization Under Camera Ego-motion**</strong>
+
+
+Yu Zhan, <u>Hanjing Ye</u>, Hong Zhang
+
+Under Review
+
+[[arXiv](https://arxiv.org/pdf/2503.02916)] [[site](https://medlartea.github.io/rpf-quadruped/)]
+</div>
+</div>
+
 <!-- person ReID-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/oclrpf"><img src='files/ocl_rpf.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
