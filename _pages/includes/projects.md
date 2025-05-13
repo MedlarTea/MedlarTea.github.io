@@ -1,5 +1,20 @@
 # 📝 Selected Projects
 
+<!-- tpt bench -->
+<div class='paper-box'><div class='paper-box-image'><a href="https://medlartea.github.io/tpt-bench/"><img src='files/tpt_bench.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box-text' markdown="1">
+
+<strong style="font-size: 1.1em;">**TPT-Bench: A Large-Scale, Long-Term and Robot-Egocentric Dataset for Benchmarking Target Person Tracking**</strong>
+
+
+<u>Hanjing Ye</u>, Kuanqi Cai, Yu Zhan, Weixi Situ, Guangcheng Chen, Jingwen Yu, Kuanqi Cai, Hong Zhang
+
+Under Review
+
+[[arXiv](http://arxiv.org/abs/2505.07446)] [[video](https://youtu.be/wrgdsGKH1MQ?si=iRwlOLgf-we0Gfm9)] [[site](https://medlartea.github.io/tpt-bench/)]
+</div>
+</div>
+
 <!-- person search-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://medlartea.github.io/rpf-search/"><img src='files/rpf_search.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
