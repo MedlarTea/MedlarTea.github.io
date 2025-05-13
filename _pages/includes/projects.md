@@ -7,7 +7,7 @@
 <strong style="font-size: 1.1em;">**TPT-Bench: A Large-Scale, Long-Term and Robot-Egocentric Dataset for Benchmarking Target Person Tracking**</strong>
 
 
-<u>Hanjing Ye</u>, Kuanqi Cai, Yu Zhan, Weixi Situ, Guangcheng Chen, Jingwen Yu, Kuanqi Cai, Hong Zhang
+<u>Hanjing Ye</u>, Yu Zhan, Weixi Situ, Guangcheng Chen, Jingwen Yu, Kuanqi Cai, Hong Zhang
 
 Under Review
 
