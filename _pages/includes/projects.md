@@ -39,7 +39,7 @@ Under Review
 
 Yu Zhan, <u>Hanjing Ye</u>, Hong Zhang
 
-Under Review
+2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 [[arXiv](https://arxiv.org/pdf/2503.02916)] [[site](https://medlartea.github.io/rpf-quadruped/)]
 </div>
