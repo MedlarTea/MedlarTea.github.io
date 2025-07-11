@@ -24,7 +24,7 @@ Under Review
 
 <u>Hanjing Ye</u>, Kuanqi Cai, Yu Zhan, Bingyi Xia, Arash Ajoudani, Hong Zhang
 
-Under Review
+IEEE/ASME Transactions on Mechatronics (accepted)
 
 [[arXiv](https://arxiv.org/pdf/2503.02188)] [[video](https://youtu.be/fyoP0cN9jxM?si=aGKmlgWo-2Wc4uV3)] [[site](https://medlartea.github.io/rpf-search/)]
 </div>
