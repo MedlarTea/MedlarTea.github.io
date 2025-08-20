@@ -26,7 +26,7 @@ Under Review
 
 2025 IEEE/ASME Transactions on Mechatronics (T-MECH)
 
-[[arXiv](https://arxiv.org/pdf/2503.02188)] [[video](https://youtu.be/fyoP0cN9jxM?si=aGKmlgWo-2Wc4uV3)] [[site](https://medlartea.github.io/rpf-search/)]
+[[arXiv](https://arxiv.org/pdf/2503.02188)] [[video](https://youtu.be/fyoP0cN9jxM?si=aGKmlgWo-2Wc4uV3)] [[site](https://medlartea.github.io/rpf-search/)] [[doi](https://doi.org/10.1109/TMECH.2025.3588874)]
 </div>
 </div>
 
