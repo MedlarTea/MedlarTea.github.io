@@ -1,5 +1,25 @@
 # 📝 Selected Projects
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <a href="https://follow-bench.github.io/">
+      <video width="100%" autoplay loop muted playsinline>
+        <source src="files/follow-bench-teaser-1080.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </a>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    <strong style="font-size: 1.1em;">**Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following**</strong>
+
+    <u>Hanjing Ye</u>, Weixi Situ, Jianwei Peng, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
+
+    Under Review
+
+    [[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)]
+  </div>
+</div>
+
 <!-- tpt bench -->
 <div class='paper-box'><div class='paper-box-image'><a href="https://medlartea.github.io/tpt-bench/"><img src='files/tpt_bench.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
