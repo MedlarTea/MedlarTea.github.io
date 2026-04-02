@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.03*: 🥳🥳 [TPT-Bench](https://medlartea.github.io/tpt-bench/) is accpted by IJRR 2026. 
+- *2026.02*: 🥳🥳 [Adap-RPF](https://adap-rpf.github.io/), [TrackVLA++](https://pku-epic.github.io/TrackVLA-plus-plus-Web/) and [EZREAL](https://tianlezeng.github.io/EzReal/) are accepted by ICRA 2026.
 - *2025.10*: Check out our latest work, "Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments." This work adopts a dopt an *sample-evaluate-plan* paradigm with a multiple-objective cost function design and a prediction-aware MPPI controller, enabling smooth and safe person following in dynamic crowded environments. Learn more on the [project website](https://adap-rpf.github.io/).
 - *2025.09*: Check out our latest work, "Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following." This work provides a comprehensive review of RPF scenarios, evaluation metrics, and planners, with a particular emphasis on requirements of safety and comfort. It further introduces a unified benchmark for the systematic evaluation of RPF planners. Learn more on the [project website](https://follow-bench.github.io/).
-- *2025.07*: 🥳🥳 [TPT-Bench](https://medlartea.github.io/tpt-bench/) dataset and development tools are released.

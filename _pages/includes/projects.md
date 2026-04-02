@@ -31,7 +31,7 @@ Under Review
 
 <u>Hanjing Ye</u>, Yu Zhan, Weixi Situ, Guangcheng Chen, Jingwen Yu, Ziqi Zhao, Kuanqi Cai, Arash Ajoudani, Hong Zhang
 
-Under Review
+2026 International Journal of Robotics Research (IJRR)
 
 [[arXiv](http://arxiv.org/abs/2505.07446)] [[video](https://youtu.be/LLZT9cEa6K0)] [[site](https://medlartea.github.io/tpt-bench/)]
 </div>
