@@ -18,7 +18,7 @@
 
 Under Review
 
-[[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)]
+[[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)] [[github](https://github.com/MedlarTea/follow-bench)]
 </div>
 </div>
 

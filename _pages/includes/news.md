@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.05*: [Follow-Bench](https://github.com/MedlarTea/follow-bench) is now released.
 - *2026.03*: 🥳🥳 [TPT-Bench](https://medlartea.github.io/tpt-bench/) is accpted by IJRR 2026. 
 - *2026.02*: 🥳🥳 [Adap-RPF](https://adap-rpf.github.io/), [TrackVLA++](https://pku-epic.github.io/TrackVLA-plus-plus-Web/) and [EZREAL](https://tianlezeng.github.io/EzReal/) are accepted by ICRA 2026.
 - *2025.10*: Check out our latest work, "Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments." This work adopts a dopt an *sample-evaluate-plan* paradigm with a multiple-objective cost function design and a prediction-aware MPPI controller, enabling smooth and safe person following in dynamic crowded environments. Learn more on the [project website](https://adap-rpf.github.io/).
