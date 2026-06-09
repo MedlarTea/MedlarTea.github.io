@@ -33,7 +33,7 @@ Under Review
 
 2026 International Journal of Robotics Research (IJRR)
 
-[[arXiv](http://arxiv.org/abs/2505.07446)] [[video](https://youtu.be/LLZT9cEa6K0)] [[site](https://medlartea.github.io/tpt-bench/)]
+[[arXiv](http://arxiv.org/abs/2505.07446)] [[video](https://youtu.be/LLZT9cEa6K0)] [[site](https://medlartea.github.io/tpt-bench/)] [[doi](https://doi.org/10.1177/02783649261447308)]
 </div>
 </div>
 
