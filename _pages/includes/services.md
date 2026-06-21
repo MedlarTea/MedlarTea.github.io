@@ -1,5 +1,4 @@
 # 🏫 Services and Activities
-- IEEE TRO, TASE, RAL Reviewer
-- IEEE ICRA, CASE Reviewer
-- IEEE/RSJ IROS Reviewer
-- IEEE ICRA 2021 Organizing Committee & Outstanding Volunteer
+- **Journal Reviewer:** TRO, TASE, RAL
+- **Conference Reviewer:** ICRA, IROS, CoRL, CASE
+- **Committee & Awards:** IEEE ICRA 2021 Organizing Committee (Outstanding Volunteer)
