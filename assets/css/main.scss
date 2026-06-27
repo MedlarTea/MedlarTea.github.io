@@ -108,3 +108,31 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.visitor-stats-heading {
+    margin-top: 0.75em;
+    margin-bottom: 0.25em;
+    padding-bottom: 0.35em;
+}
+
+.visitor-stats-widget {
+    margin: 0 0 1em;
+    line-height: 0;
+
+    > div {
+        padding: 6px 8px !important;
+        border-radius: 8px !important;
+    }
+
+    canvas {
+        border-radius: 4px !important;
+    }
+
+    canvas + div {
+        display: none !important;
+    }
+
+    div[style*="margin-top"] {
+        margin-top: 4px !important;
+    }
+}
