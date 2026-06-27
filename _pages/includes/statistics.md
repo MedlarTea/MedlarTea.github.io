@@ -1,4 +1,3 @@
-<!-- # 👀 Visiting Statistics -->
+# 👀 Visiting Statistics
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dbb8b8&w=400&t=n&d=dzUqtpwHmBtMBs7z9NClEP0zuUlj8POsLLnG0LpUA10&co=ffffff'></script>
+<script async src="https://feed-pulse.com/api/embed/visitor-globe.js?site_id=04566605-16b4-476a-969a-7b3cb9f6918d&map=flat&sz=md&theme=ivory&speed=normal&w=420"></script>
