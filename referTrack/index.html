@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="ReferTrack: Referring Then Tracking for Embodied Visual Tracking">
+  <meta property="og:title" content="ReferTrack: Referring Then Tracking for Embodied Visual Tracking"/>
+  <meta property="og:description" content="A referring-then-tracking paradigm that grounds embodied visual tracking with image-space bounding boxes and TVBI tokens."/>
+  <meta property="og:url" content="https://medlartea.github.io/referTrack/"/>
+  <meta property="og:image" content="static/images/teaser.png"/>
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="ReferTrack: Referring Then Tracking for Embodied Visual Tracking">
+  <meta name="twitter:description" content="A referring-then-tracking paradigm for embodied visual tracking.">
+  <meta name="twitter:image" content="static/images/teaser.png">
+  <meta name="keywords" content="Embodied Visual Tracking, Vision-Language-Action, Referring, Robot Person Following">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>ReferTrack: Referring Then Tracking for Embodied Visual Tracking</title>
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+
+  <style>
+    .hero-video-wrap {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+    .hero-video-wrap video,
+    .section-video-wrap video {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      background: #000;
+    }
+    .section-video-wrap {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+    .section-video-wrap.demo-video-wrap {
+      max-width: 360px;
+    }
+    .overview-text {
+      font-size: 1.15rem;
+      line-height: 1.7;
+    }
+    .publication-links .button {
+      margin: 4px;
+    }
+    pre.bibtex {
+      background: #f5f5f5;
+      padding: 1.25rem;
+      border-radius: 8px;
+      overflow-x: auto;
+      text-align: left;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .method-figure {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">ReferTrack: Referring Then Tracking for Embodied Visual Tracking</h1>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><a href="https://medlartea.github.io/" target="_blank">Hanjing Ye</a><sup>1,2</sup>,</span>
+            <span class="author-block">Tianle Zeng<sup>1</sup>,</span>
+            <span class="author-block"><a href="https://jzhzhang.github.io/" target="_blank">Jiazhao Zhang</a><sup>3</sup>,</span>
+            <span class="author-block"><a href="https://wsakobe.github.io/" target="_blank">Shaoan Wang</a><sup>3</sup>,</span>
+            <span class="author-block">Zibo Zhang<sup>4</sup>,</span>
+            <span class="author-block"><a href="https://situ-weixi.github.io/" target="_blank">Weixi Situ</a><sup>1</sup>,</span>
+            <span class="author-block"><a href="https://yuchen2199.github.io/" target="_blank">Yuchen Zhou</a><sup>2</sup>,</span>
+            <span class="author-block"><a href="https://ygling2008.github.io/" target="_blank">Yonggen Ling</a><sup>2,4*</sup>,</span>
+            <span class="author-block"><a href="https://scholar.google.com/citations?user=J7UkpAIAAAAJ&hl=en" target="_blank">Hong Zhang</a><sup>1*</sup></span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <sup>1</sup>RCV Laboratory, SUSTech &nbsp;&nbsp;
+              <sup>2</sup>Tencent Robotics X<br>
+              <sup>3</sup>Peking University &nbsp;&nbsp;
+              <sup>4</sup>Futian Laboratory
+            </span>
+            <span class="eql-cntrb"><small><br><sup>*</sup>Corresponding authors</small></span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2607.20061" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="ai ai-arxiv"></i></span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://www.youtube.com/watch?v=CP7h-tWWABU" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fab fa-youtube"></i></span>
+                  <span>Video</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://github.com/MedlarTea/referTrack" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fab fa-github"></i></span>
+                  <span>Code</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="#BibTeX" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fas fa-quote-right"></i></span>
+                  <span>BibTeX</span>
+                </a>
+              </span>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Method video intro -->
+<section class="hero teaser">
+  <div class="hero-body">
+    <div class="container">
+      <div class="hero-video-wrap">
+        <video id="method-video" controls muted autoplay loop playsinline preload="metadata">
+          <source src="static/videos/method_720p.mp4" type="video/mp4">
+        </video>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reasoning often operates in abstract spatial latents that are difficult to supervise and weakly aligned with explicit image-space detections. To address this, we introduce ReferTrack, a <i>referring-then-tracking</i> paradigm that grounds EVT using a single forward-facing camera. Our model first selects the target from an indexed set of bounding boxes, then decodes tracking waypoints conditioned on this image-grounded decision. To preserve target motion cues over time, ReferTrack maintains a sliding-window queue of previously selected bounding boxes, injecting their geometric features into the visual history via temporal-viewpoint-bbox indicator (TVBI) tokens. We further enhance target identification by co-training on a custom Refer-QA dataset. On EVT-Bench, ReferTrack achieves state-of-the-art single-view performance with success rates of 89.4%, 73.3%, and 74.1% on the single-target, distracted, and ambiguity tracking splits, respectively—matching or even surpassing several multi-camera baselines on identification-heavy tasks. Finally, real-world deployments on legged and humanoid robots validate its robust sim-to-real transfer capabilities. Code is available at <a href="https://github.com/MedlarTea/referTrack" target="_blank">https://github.com/MedlarTea/referTrack</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Experiments -->
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column">
+        <h2 class="title is-3">Experiments</h2>
+        <div class="content has-text-justified">
+          <p>
+            We evaluate ReferTrack on EVT-Bench under the single forward-view setting, where it achieves state-of-the-art performance across single-target, distracted, and ambiguity tracking splits. Real-world deployments on a legged robot and a humanoid robot further validate robust sim-to-real transfer with a single forward-facing camera.
+          </p>
+        </div>
+        <div class="section-video-wrap">
+          <video controls muted autoplay loop playsinline preload="metadata">
+            <source src="static/videos/experiment_720p.mp4" type="video/mp4">
+          </video>
+        </div>
+        <div class="method-figure" style="margin-top: 1.5rem;">
+          <img src="static/images/real-world.png" alt="Real-world qualitative results" style="width: 100%; height: auto;">
+          <h2 class="subtitle has-text-centered" style="margin-top: 0.75rem;">
+            Real-world qualitative results on legged and humanoid platforms.
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Demo In The Wild -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column">
+        <h2 class="title is-3">Demo In The Wild</h2>
+        <div class="content has-text-justified">
+          <p>
+            ReferTrack follows language-specified pedestrians in unstructured real-world scenes, remaining robust to distractors, occlusions, and dynamic motion while transferring from simulation to physical robots.
+          </p>
+        </div>
+        <div class="section-video-wrap demo-video-wrap">
+          <video controls muted autoplay loop playsinline preload="metadata">
+            <source src="static/videos/demo3x_720p.mp4" type="video/mp4">
+          </video>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BibTeX -->
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title is-3 has-text-centered">BibTeX</h2>
+    <pre class="bibtex"><code>@article{ye2026refertrack,
+  title={ReferTrack: Referring Then Tracking for Embodied Visual Tracking},
+  author={Ye, Hanjing and Zeng, Tianle and Zhang, Jiazhao and Wang, Shaoan and Zhang, Zibo and Situ, Weixi and Zhou, Yuchen and Ling, Yonggen and Zhang, Hong},
+  journal={arXiv preprint arXiv:2607.20061},
+  year={2026},
+  url={https://arxiv.org/abs/2607.20061}
+}</code></pre>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content has-text-centered">
+          <p>
+            This page was built using the
+            <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a>,
+            adapted from
+            <a href="https://nerfies.github.io" target="_blank">Nerfies</a>
+            and inspired by
+            <a href="https://pku-epic.github.io/TrackVLA-web/" target="_blank">TrackVLA</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
