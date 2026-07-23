@@ -1,5 +1,20 @@
 # 📝 Selected Projects
 
+<!-- referTrack -->
+<div class='paper-box'><div class='paper-box-image'><a href="https://github.com/MedlarTea/referTrack"><img src='files/referTrack.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box-text' markdown="1">
+
+<strong style="font-size: 1.1em;">**ReferTrack: Referring Then Tracking for Embodied Visual Tracking**</strong>
+
+
+<u>Hanjing Ye</u>, Tianle Zeng, Jiazhao Zhang, Shaoan Wang, Zibo Zhang, Weixi Situ, Yuchen Zhou, Yonggen Ling, Hong Zhang
+
+Under Review
+
+[[arXiv](https://arxiv.org/abs/2607.20061)] [[video](https://www.youtube.com/watch?v=CP7h-tWWABU)] [[github](https://github.com/MedlarTea/referTrack)]
+</div>
+</div>
+
 <!-- follow bench -->
 <div class='paper-box'>
 <div class='paper-box-image'>
