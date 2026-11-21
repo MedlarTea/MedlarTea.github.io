@@ -31,7 +31,7 @@ Under Review
 
 <u>Hanjing Ye</u>, Weixi Situ, Jianwei Peng, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
 
-Under Review
+2026 IEEE Transactions on Automation Science and Engineering (T-ASE)
 
 [[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)] [[github](https://github.com/MedlarTea/follow-bench)]
 </div>
