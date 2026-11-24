@@ -1,5 +1,19 @@
 # 📝 Selected Projects
 
+<!-- LeadVLA -->
+<div class='paper-box'><div class='paper-box-image'><a href="https://louiszengcn.github.io/LeadVLA_PAGE/"><img src='files/leadvla-coffee.gif' alt="LeadVLA robot leading a customer in a coffee shop" width="100%" loading="lazy"></a></div>
+<div class='paper-box-text' markdown="1">
+
+<strong style="font-size: 1.1em;">**LeadVLA: Learning Follower-Aware Route Execution for Robot Leading**</strong>
+
+Tianle Zeng, <u>Hanjing Ye</u><sup>*</sup>, Bingyi Xia, Yuchen Zhou, Zibo Zhang, Yufei Huang, Yonggen Ling, Hong Zhang
+
+Under Review
+
+[[arXiv](https://arxiv.org/abs/2611.30149)] [[site](https://louiszengcn.github.io/LeadVLA_PAGE/)] [[github](https://github.com/louiszengCN/LeadVLA_CODE)]
+</div>
+</div>
+
 <!-- follow bench 2.0 -->
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -139,13 +153,12 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hao Luan, Hong Zhang
 </div>
 {% endcomment %}
 
+{% comment %}
 <!-- person tracking-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/rpfpartial"><img src='files/mono_rpf_track.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
 <strong style="font-size: 1.1em;">**Robot Person Following Under Partial Occlusion**</strong>
-
-
 
 <u>Hanjing Ye</u>, Jieting Zhao, Yaling Pan, Weinan Chen, Li He, Hong Zhang
 
@@ -154,3 +167,4 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hao Luan, Hong Zhang
 [[paper](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)] [[doi](https://doi.org/10.1109/ICRA48891.2023.10160738)] [[site](https://sites.google.com/view/rpfpartial)]
 </div>
 </div>
+{% endcomment %}
