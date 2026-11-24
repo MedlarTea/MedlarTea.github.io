@@ -89,6 +89,7 @@ Under Review
 </div>
 </div>
 
+{% comment %}
 <!-- rpf quadruped -->
 <div class='paper-box'><div class='paper-box-image'><a href="https://medlartea.github.io/rpf-quadruped/"><img src='files/rpf_quadruped.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
@@ -103,6 +104,7 @@ Yu Zhan, <u>Hanjing Ye</u>, Hong Zhang
 [[arXiv](https://arxiv.org/pdf/2503.02916)] [[site](https://medlartea.github.io/rpf-quadruped/)] [[doi](https://doi.org/10.1109/IROS60139.2025.11246604)]
 </div>
 </div>
+{% endcomment %}
 
 <!-- person ReID-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/oclrpf"><img src='files/ocl_rpf.gif' alt="sym" width="100%"></a></div>
@@ -119,6 +121,7 @@ Yu Zhan, <u>Hanjing Ye</u>, Hong Zhang
 </div>
 </div>
 
+{% comment %}
 <!-- person orientation estimation-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://github.com/zhaojieting/Part_HOE"><img src='files/ori_rpf.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
@@ -134,6 +137,7 @@ Jieting Zhao, <u>Hanjing Ye</u>, Yu Zhan, Hao Luan, Hong Zhang
 
 </div>
 </div>
+{% endcomment %}
 
 <!-- person tracking-->
 <div class='paper-box'><div class='paper-box-image'><a href="https://sites.google.com/view/rpfpartial"><img src='files/mono_rpf_track.gif' alt="sym" width="100%"></a></div>
