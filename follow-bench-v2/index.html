@@ -1,0 +1,451 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>
+      Follow-Bench 2.0: An End-to-End 3D Benchmark for Socially-Aware Robot
+      Person Following
+    </title>
+    <meta
+      name="description"
+      content="Follow-Bench 2.0 is an end-to-end 3D benchmark for socially-aware robot person following, with interactive crowds, coupled perception–planning challenges, and safety–comfort evaluation."
+    />
+    <meta property="og:title" content="Follow-Bench 2.0" />
+    <meta
+      property="og:description"
+      content="An End-to-End 3D Benchmark for Socially-Aware Robot Person Following"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="static/images/overview.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#ffffff" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23276bb0'/%3E%3Cpath d='M20 47V17h26v7H28v6h15v7H28v10' fill='white'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="static/css/index.css" />
+    <script src="static/js/index.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#abstract">Skip to content</a>
+    <header class="site-header">
+      <nav class="nav-inner" aria-label="Main navigation">
+        <a class="wordmark" href="#top">Follow-Bench <span>2.0</span></a>
+        <div class="nav-links">
+          <a href="#benchmark">Benchmark</a>
+          <a href="#BibTeX">Citation</a>
+        </div>
+      </nav>
+    </header>
+    <main id="top">
+      <section class="hero" aria-labelledby="paper-title">
+        <div class="hero-inner">
+          <h1 id="paper-title">
+            <span class="project-title">Follow-Bench 2.0</span
+            ><span class="paper-subtitle"
+              >An End-to-End 3D Benchmark for<br class="desktop-break" />
+              Socially-Aware Robot Person Following</span
+            >
+          </h1>
+          <div class="authors">
+            <span
+              ><a
+                href="https://medlartea.github.io/"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Hanjing Ye</a
+              ><sup>1,2,*</sup>,</span
+            >
+            <span>Tianle Zeng<sup>1,*</sup>,</span>
+            <span>Jianwei Peng<sup>1,*</sup>,</span>
+            <span>Yanci Wen<sup>1</sup>,</span>
+            <span
+              ><a
+                href="https://yuchen2199.github.io/"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Yuchen Zhou</a
+              ><sup>2</sup>,</span
+            >
+            <span
+              ><a
+                href="https://ygling2008.github.io/"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Yonggen Ling</a
+              ><sup>2,3,#</sup>,</span
+            >
+            <span
+              ><a
+                href="https://scholar.google.com/citations?user=J7UkpAIAAAAJ&amp;hl=en"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Hong Zhang</a
+              ><sup>1,#</sup></span
+            >
+          </div>
+          <div class="affiliations">
+            <span
+              ><sup>1</sup>Southern University of Science and Technology</span
+            ><span><sup>2</sup>Tencent Robotics X</span
+            ><span><sup>3</sup>Futian Laboratory</span>
+          </div>
+          <p class="author-notes">
+            * Equal contribution <span>·</span> # Corresponding authors
+          </p>
+          <div class="publication-links">
+            <a
+              class="button"
+              href="https://github.com/MedlarTea/follow-bench-2.0/"
+              target="_blank"
+              rel="noopener noreferrer"
+              ><svg viewBox="0 0 24 24" aria-hidden="true">
+                <path
+                  d="M9 19c-4.3 1.3-4.3-2.2-6-2.7M15 22v-3.4a3 3 0 0 0-.8-2.3c2.7-.3 5.6-1.3 5.6-6a4.7 4.7 0 0 0-1.3-3.3 4.3 4.3 0 0 0-.1-3.3S17.3 3.4 15 4.9a11.6 11.6 0 0 0-6 0C6.7 3.4 5.6 3.7 5.6 3.7A4.3 4.3 0 0 0 5.5 7a4.7 4.7 0 0 0-1.3 3.3c0 4.7 2.9 5.7 5.6 6a3 3 0 0 0-.8 2.3V22"
+                /></svg
+              >Code</a
+            >
+            <a class="button" href="#video"
+              ><svg viewBox="0 0 24 24" aria-hidden="true">
+                <rect x="3" y="5" width="18" height="14" rx="4" />
+                <path d="m10 9 5 3-5 3z" /></svg
+              >Video</a
+            >
+            <a class="button" href="#BibTeX"
+              ><svg viewBox="0 0 24 24" aria-hidden="true">
+                <path
+                  d="M9 6H4v7h5v-2c0 4-1 6-4 7M20 6h-5v7h5v-2c0 4-1 6-4 7"
+                /></svg
+              >BibTeX</a
+            >
+          </div>
+        </div>
+        <div class="video-container" id="video">
+          <video
+            controls
+            autoplay
+            muted
+            playsinline
+            preload="metadata"
+            poster="static/images/video-poster.jpg"
+            aria-label="Follow-Bench 2.0 demonstration video"
+          >
+            <source src="../follow_bench_v2_video.mp4" type="video/mp4" />
+            Your browser does not support embedded video.
+            <a href="../follow_bench_v2_video.mp4"
+              >Download the demonstration.</a
+            >
+          </video>
+          <p class="teaser-caption">
+            <strong>Following is more than keeping a person in view.</strong
+            ><br />Evaluating perception, motion planning, and social comfort
+            together in human-populated 3D environments.
+          </p>
+        </div>
+        <div class="stats wrap" aria-label="Benchmark at a glance">
+          <div><strong>4</strong><span>Diagnostic scenarios</span></div>
+          <div><strong>4</strong><span>Difficulty presets</span></div>
+          <div><strong>2</strong><span>Following configurations</span></div>
+          <div><strong>50</strong><span>Shared seeds per cell</span></div>
+        </div>
+      </section>
+
+      <section class="section shaded" id="abstract">
+        <div class="reading-width">
+          <h2>Abstract</h2>
+          <p class="abstract-text">
+            Socially-aware robot person following (RPF) requires a mobile robot
+            to follow a designated person in dynamic human environments while
+            maintaining target identity, avoiding obstacles and pedestrians, and
+            preserving socially comfortable formations. Existing benchmarks only
+            partially evaluate this coupled problem: embodied visual tracking
+            benchmarks emphasize target visibility with limited social
+            interaction, person re-identification benchmarks study perception
+            without closed-loop control, and motion-planning benchmarks often
+            assume ground-truth target and pedestrian states. We introduce
+            <strong>Follow-Bench 2.0</strong>, an end-to-end 3D benchmark for
+            evaluating socially-aware RPF under coupled perception–planning
+            challenges. Built in Unreal Engine, Follow-Bench 2.0 provides
+            difficulty-leveled scenarios with diverse pedestrian flows, lighting
+            and weather conditions, cluttered layouts, bottlenecks, queueing
+            behaviors, distractors, and temporary target occlusions. The
+            benchmark supports modular perception–planning pipelines, end-to-end
+            visual policies, and foundation-model-based active trackers under a
+            unified closed-loop protocol. It further evaluates both back- and
+            side-following configurations and reports safety–comfort metrics
+            covering task success, target visibility, target recovery,
+            social-space intrusion, following formation, and motion smoothness.
+            Experiments show that RPF-oriented modular pipelines substantially
+            outperform current end-to-end visual policies on close and socially
+            comfortable following, but also reveal that socially-aware RPF
+            remains far from solved in interaction-heavy environments and
+            especially in side-following. Follow-Bench 2.0 therefore provides a
+            diagnostic platform for studying how perception errors, occlusions,
+            crowd interactions, and following configurations jointly affect
+            robot person following.
+          </p>
+        </div>
+      </section>
+
+      <section class="section" id="benchmark">
+        <div class="wrap">
+          <p class="section-kicker">The benchmark</p>
+          <h2>Socially-aware following, in the loop</h2>
+          <p class="section-intro">
+            From target identity to social comfort, Follow-Bench 2.0 brings
+            perception and planning into a shared, closed-loop evaluation.
+          </p>
+          <figure>
+            <button
+              class="figure-button"
+              data-zoom
+              aria-label="Enlarge the benchmark overview"
+            >
+              <img
+                src="static/images/overview.png"
+                alt="A robot follows a person in a photorealistic crowd, alongside the four benchmark environments: Open Plaza, Narrow Passage, Cluttered Park, and Street Corner."
+                width="1332"
+                height="477"
+                loading="lazy"
+              />
+            </button>
+            <figcaption>
+              Photorealistic crowds, interactive pedestrians, and back- and
+              side-following tasks in Unreal Engine.
+            </figcaption>
+          </figure>
+          <div class="scenario-grid">
+            <article>
+              <span class="scenario-tag">Identity &amp; recovery</span>
+              <h3>Open Plaza</h3>
+              <p>
+                Crossing pedestrian flows repeatedly occlude the target, testing
+                re-identification and recovery in open space.
+              </p>
+            </article>
+            <article>
+              <span class="scenario-tag">Geometry &amp; visibility</span>
+              <h3>Street Corner</h3>
+              <p>
+                Blind turns and oncoming pedestrians challenge target visibility
+                and the lateral space needed for side-following.
+              </p>
+            </article>
+            <article>
+              <span class="scenario-tag"
+                >Distractors &amp; crowd interaction</span
+              >
+              <h3>Cluttered Park</h3>
+              <p>
+                Look-alike pedestrians, clutter, and variable-width passages
+                couple identity ambiguity with motion-planning constraints.
+              </p>
+            </article>
+            <article>
+              <span class="scenario-tag">Queueing &amp; yielding</span>
+              <h3>Narrow Passage</h3>
+              <p>
+                Short doorway-traversal windows force a balance between target
+                keeping, collision avoidance, and personal space.
+              </p>
+            </article>
+          </div>
+          <div class="subsection">
+            <h3 class="centered-title">A unified episode architecture</h3>
+            <p class="section-intro">
+              An Episode Manager synchronizes pedestrian behavior, robot
+              planning, target motion, and evaluation. Privileged evaluation
+              signals are never fed back to the policy.
+            </p>
+            <figure>
+              <button
+                class="figure-button"
+                data-zoom
+                aria-label="Enlarge episode architecture"
+              >
+                <img
+                  src="static/images/architecture.png"
+                  alt="Episode Manager coordinates the NPC Controller, Robot Planner, Target Person Controller, Scenario System, and Evaluation Protocol."
+                  width="1416"
+                  height="459"
+                  loading="lazy"
+                />
+              </button>
+              <figcaption>
+                The same scenario and evaluation interface supports modular
+                pipelines, visual policies, and foundation-model-based trackers.
+              </figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <section class="section shaded" id="evaluation">
+        <div class="wrap">
+          <p class="section-kicker">Controlled challenges</p>
+          <h2>More interaction. More difficult following.</h2>
+          <p class="section-intro">
+            Four difficulty presets increase crowd intensity, motion pressure,
+            social interaction, and identity ambiguity. Weather and lighting add
+            further visual variation.
+          </p>
+          <figure>
+            <button
+              class="figure-button"
+              data-zoom
+              aria-label="Enlarge difficulty progression"
+            >
+              <img
+                src="static/images/difficulty.png"
+                alt="Cluttered Park at Easy, Hard, Boss, and Legend difficulty with increasingly dense intersecting pedestrian traffic."
+                width="1416"
+                height="210"
+                loading="lazy"
+              />
+            </button>
+            <figcaption>
+              Cluttered Park: easy, hard, boss, and legend. Yellow and red boxes
+              indicate the target and robot.
+            </figcaption>
+          </figure>
+          <div class="protocol">
+            <div>
+              <h3>Matched episodes</h3>
+              <p>
+                50 shared seeds per scenario–difficulty cell keep actor
+                assignments, start–goal configurations, and weather matched
+                across methods.
+              </p>
+            </div>
+            <div>
+              <h3>Safety &amp; comfort</h3>
+              <p>
+                Evaluation reports task success, collision avoidance, target
+                personal-zone time, pedestrian private-zone intrusion, and
+                motion jerk.
+              </p>
+            </div>
+            <div>
+              <h3>Back &amp; side following</h3>
+              <p>
+                Modular methods are evaluated in both configurations at a
+                desired distance of 1.5 m, with front or fused front/side RGB-D
+                views.
+              </p>
+            </div>
+          </div>
+          <figure class="following-figure">
+            <button
+              class="figure-button"
+              data-zoom
+              aria-label="Enlarge following configurations"
+            >
+              <img
+                src="static/images/following-configurations.png"
+                alt="Back-following uses a front RGB-D view; side-following fuses front, left, and right views into a shared bird's-eye-view interface."
+                width="1410"
+                height="435"
+                loading="lazy"
+              />
+            </button>
+            <figcaption>
+              Back-following (left) and side-following (right), with real-time
+              perception and planning visualization.
+            </figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section class="section shaded" id="platform">
+        <div class="wrap platform-layout">
+          <div class="platform-copy">
+            <p class="section-kicker">An extensible platform</p>
+            <h2>
+              One benchmark.<br />
+              Multiple embodiments.
+            </h2>
+            <p>
+              The platform includes wheeled, quadruped, and humanoid robot
+              assets, with RGB, depth, and LiDAR sensing.
+            </p>
+            <p>
+              Interactive target control, robot teleoperation, and live
+              debugging support policy diagnosis and expert demonstration
+              collection.
+            </p>
+            <p class="table-note">
+              The reported evaluation uses Scout-Mini. Additional embodiments
+              support future extensions.
+            </p>
+            <a
+              class="text-link"
+              href="https://github.com/MedlarTea/follow-bench-2.0/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Explore the benchmark code</a
+            >
+          </div>
+          <figure>
+            <button
+              class="figure-button"
+              data-zoom
+              aria-label="Enlarge robot assets"
+            >
+              <img
+                src="static/images/robot-assets.png"
+                alt="Supported simulated robot assets include a wheeled robot, quadruped, and humanoid."
+                width="1206"
+                height="801"
+                loading="lazy"
+              />
+            </button>
+            <figcaption>
+              Robot assets in the same human-interactive 3D environments.
+            </figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section class="section citation-section" id="BibTeX">
+        <div class="reading-width">
+          <div class="citation-heading">
+            <h2>BibTeX</h2>
+            <button id="copy-bibtex" class="copy-button" type="button">
+              Copy citation
+            </button>
+          </div>
+          <pre><code id="bibtex">@misc{followbench2,
+  title = {Follow-Bench 2.0: An End-to-End 3D Benchmark
+           for Socially-Aware Robot Person Following},
+  author = {Ye, Hanjing and Zeng, Tianle and Peng, Jianwei
+            and Wen, Yanci and Zhou, Yuchen
+            and Ling, Yonggen and Zhang, Hong},
+  howpublished = {Research manuscript},
+  url = {https://github.com/MedlarTea/follow-bench-2.0/}
+}</code></pre>
+          <p
+            id="copy-status"
+            class="copy-status"
+            role="status"
+            aria-live="polite"
+          ></p>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <div class="wrap">
+        <a class="wordmark" href="#top">Follow-Bench <span>2.0</span></a>
+        <p>
+          An End-to-End 3D Benchmark for Socially-Aware Robot Person Following
+        </p>
+      </div>
+    </footer>
+    <dialog id="figure-dialog" aria-label="Enlarged paper figure">
+      <button class="dialog-close" aria-label="Close enlarged figure" autofocus>
+        ×</button
+      ><img id="dialog-image" alt="" />
+      <p id="dialog-caption"></p>
+    </dialog>
+  </body>
+</html>
