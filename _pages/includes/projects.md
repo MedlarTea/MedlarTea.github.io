@@ -1,5 +1,27 @@
 # 📝 Selected Projects
 
+<!-- follow bench 2.0 -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<a href="https://medlartea.github.io/follow-bench-v2/">
+    <video width="100%" autoplay loop muted playsinline preload="metadata" aria-label="Follow-Bench 2.0 highlight">
+    <source src="{{ '/follow-bench-v2/videos/follow_bench_2_highlight.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+</a>
+</div>
+<div class='paper-box-text' markdown="1">
+
+<strong style="font-size: 1.1em;">**Follow-Bench 2.0: An End-to-End 3D Benchmark for Socially-Aware Robot Person Following**</strong>
+
+<u>Hanjing Ye</u>, Tianle Zeng, Jianwei Peng, Yanci Wen, Yuchen Zhou, Yonggen Ling, Hong Zhang
+
+2026 Annual Conference on Neural Information Processing Systems (NeurIPS)
+
+[[video](https://medlartea.github.io/follow-bench-v2/#video)] [[site](https://medlartea.github.io/follow-bench-v2/)] [[github](https://github.com/MedlarTea/follow-bench-2.0/)]
+</div>
+</div>
+
 <!-- referTrack -->
 <div class='paper-box'><div class='paper-box-image'><a href="https://medlartea.github.io/referTrack/"><img src='files/referTrack.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">

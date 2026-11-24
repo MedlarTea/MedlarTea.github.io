@@ -15,12 +15,12 @@ Visit `http://127.0.0.1:8765/follow-bench-v2/`.
 ## Content and assets
 
 - Manuscript source (not linked on the page): `../follow_bench_v2_main.pdf`. Add the Paper/arXiv button when the arXiv version is available.
-- Video: `../follow_bench_v2_video.mp4`
+- Video: `videos/follow_bench_v2_video.mp4`
 - Figures: rendered from manuscript pages 2, 5, 6, 7, and 25.
 - Video poster: extracted from the supplied video at 35 seconds.
 - Fonts: locally hosted Google Sans character subsets, with the upstream SIL Open Font License in `static/fonts/OFL.txt`.
 
-Keep the video in the repository root when publishing this directory to GitHub Pages. The original PDF is not required by the page. The page includes no invented publication venue, arXiv identifier, or publication date; its BibTeX entry describes the supplied research manuscript.
+Keep the `videos/` directory alongside `index.html` when publishing this directory to GitHub Pages. The original PDF is not required by the page. The page includes no invented publication venue, arXiv identifier, or publication date; its BibTeX entry describes the supplied research manuscript.
 
 ## Interactions
 
