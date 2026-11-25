@@ -32,7 +32,7 @@ Under Review
 
 2026 Annual Conference on Neural Information Processing Systems (NeurIPS)
 
-[[video](https://medlartea.github.io/follow-bench-v2/#video)] [[site](https://medlartea.github.io/follow-bench-v2/)] [[github](https://github.com/MedlarTea/follow-bench-2.0/)]
+[[arXiv](https://arxiv.org/abs/2611.32579)] [[video](https://medlartea.github.io/follow-bench-v2/#video)] [[site](https://medlartea.github.io/follow-bench-v2/)] [[github](https://github.com/MedlarTea/follow-bench-2.0/)]
 </div>
 </div>
 
