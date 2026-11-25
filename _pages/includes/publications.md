@@ -14,6 +14,10 @@
 10. **Person Re-Identification for Robot Person Following with Online Continual Learning.** <br /><u>Hanjing Ye</u>, Jieting Zhao, Yu Zhan, Weinan Chen, Li He, Hong Zhang. <br />**RAL 2024**. [[paper](http://MedlarTea.github.io/files/ocl_rpf.pdf)] [[github](https://github.com/MedlarTea/OCL-RPF)] [[doi](https://doi.org/10.1109/LRA.2024.3438042)] [[site](https://sites.google.com/view/oclrpf)]
 11. **Robot Person Following Under Partial Occlusion.** <br /><u>Hanjing Ye</u>, Jieting Zhao, Yaling Pan, Weinan Chen, Li He, Hong Zhang. <br />**ICRA 2023**. [[paper](http://MedlarTea.github.io/files/mono_rpf_track.pdf)] [[github](https://github.com/MedlarTea/Mono-RPF)] [[doi](https://doi.org/10.1109/ICRA48891.2023.10160738)] [[site](https://sites.google.com/view/rpfpartial)]
 
+## Human-Centric Understanding
+1. **LookAnything: A Foundation Model for Holistic Gaze Following.** <br />Jiayu Tang, Yuchen Zhou, Hongsheng Wu, <u>Hanjing Ye</u>, Ke Huang, Cheng Wang, Yuqin Dai, Yufei Huang, Yonggen Ling, Chao Gou. <br />**Under Review**. [[arXiv](https://arxiv.org/abs/2611.32351)] [[site](https://look-anything.github.io/)] [[github](https://github.com/Look-Anything/LookAnything)]
+
+
 <!-- ## Place Recognition
 1. **GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection.** <br />Jingwen Yu, <u>Hanjing Ye</u>, Jianhao Jiao, Ping Tan, Hong Zhang. <br />**IROS 2024**. [[paper](http://MedlarTea.github.io/files/gv_bench.pdf)] [[github](https://github.com/jarvisyjw/GV-Bench)] [[site](https://jarvisyjw.github.io/GV-Bench/)]
 2. **Multi-scale Point Octree Encoding Network for Point Cloud based Place Recognition** <br />Zhilong Tang, <u>Hanjing Ye</u>, Hong Zhang. <br />**IROS 2023**. [[paper](http://MedlarTea.github.io/files/multi_scale_pcpr.pdf)] [[github](https://github.com/Zhilong-Tang/MPOE-Net)] [[doi](https://ieeexplore.ieee.org/document/10341943)]
