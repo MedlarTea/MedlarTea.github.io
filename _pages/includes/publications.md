@@ -16,6 +16,7 @@
 
 ## Human-Centric Understanding
 1. **LookAnything: A Foundation Model for Holistic Gaze Following.** <br />Jiayu Tang, Yuchen Zhou, Hongsheng Wu, <u>Hanjing Ye</u>, Ke Huang, Cheng Wang, Yuqin Dai, Yufei Huang, Yonggen Ling, Chao Gou. <br />**Under Review**. [[arXiv](https://arxiv.org/abs/2611.32351)] [[site](https://look-anything.github.io/)] [[github](https://github.com/Look-Anything/LookAnything)]
+2. **AIRIS: Benchmarking Social Embodied Intelligence in Egocentric Streaming Videos.** <br />Yuchen Zhou, Hongsheng Wu, Jiayu Tang, Yunxuan Mao, <u>Hanjing Ye</u>, Shenghao Zhang, Jing Tang, Chun-Kai Fan, Yufei Huang, Yonggen Ling, He Zhang. <br />**Under Review**. [[site](https://airis-bench.github.io/)] [[github](https://github.com/AIRIS-bench/AIRIS)]
 
 
 <!-- ## Place Recognition
