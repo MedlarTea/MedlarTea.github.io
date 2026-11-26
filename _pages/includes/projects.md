@@ -69,7 +69,7 @@ Under Review
 
 2026 IEEE Transactions on Automation Science and Engineering (T-ASE)
 
-[[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)] [[github](https://github.com/MedlarTea/follow-bench)]
+[[arXiv](https://arxiv.org/abs/2509.10796)] [[doi](https://doi.org/10.1109/TASE.2026.3757588)] [[site](https://follow-bench.github.io/)] [[github](https://github.com/MedlarTea/follow-bench)]
 </div>
 </div>
 
